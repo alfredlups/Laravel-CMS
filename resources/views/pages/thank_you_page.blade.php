@@ -1,0 +1,1 @@
+<h1>Thank you for your submission!</h1><p>We will get in touch to you soon.</p>
